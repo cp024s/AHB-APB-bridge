@@ -1,1 +1,1 @@
-# AMBA-APB-protocol-verification
+# AMBA protocol
